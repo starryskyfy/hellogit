@@ -11,5 +11,5 @@ function numOfChar(str){
 
 return text;
 }
-console.log(numOfChar('hello'));
+console.log(numOfChar('hello hi'));
 }
